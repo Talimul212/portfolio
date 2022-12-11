@@ -645,17 +645,8 @@ a:hover {
     display: block;
   }
 
-  .navbarUl li {
+  .navbar ul {
     background-color: #0078ff;
-   display:none;
-  }
-}
-@media (max-width: 860px) {
-  .mobile-nav-toggle {
-    display: block;
-  }
-
-  .navbarUl li {
    display:none;
   }
 }
